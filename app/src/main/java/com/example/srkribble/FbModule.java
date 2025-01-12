@@ -34,7 +34,7 @@ public class FbModule {
                     Ball currentBall = userSnapshot.getValue(Ball.class);
                     balls.add(currentBall);
                 }
-                ((MainActivity)context).dataChange();
+                ((CanvasActivity)context).dataChange();
             }
 
             @Override
