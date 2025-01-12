@@ -19,5 +19,6 @@ public class CanvasActivity extends AppCompatActivity {
     public void dataChange() {
         boardGame.dataChange();
 
+
     }
 }
