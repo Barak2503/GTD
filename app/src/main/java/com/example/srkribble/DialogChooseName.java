@@ -13,7 +13,7 @@ public class DialogChooseName extends Dialog implements View.OnClickListener {
     Button btnChoosename;
     EditText etChoosename;
     Context context;
-    String name;
+    public String name="";
     int count=0;
 
     public DialogChooseName(@NonNull Context context) {
@@ -45,4 +45,5 @@ public class DialogChooseName extends Dialog implements View.OnClickListener {
 
 
     }
+
 }
