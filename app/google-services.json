@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257680799306",
+    "project_id": "srkribblefb",
+    "storage_bucket": "srkribblefb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257680799306:android:9ec94059202f4eb6a798b3",
+        "android_client_info": {
+          "package_name": "com.example.srkribble"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBIJExsXALDx8_BCZf4T78qd2imhwDam0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
